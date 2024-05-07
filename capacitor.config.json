@@ -1,0 +1,6 @@
+{
+  "appId": "com.nastyazabolotskih.todolist",
+  "appName": "ToDoList",
+  "webDir": ".output/public",
+  "bundledWebRuntime": false
+}
